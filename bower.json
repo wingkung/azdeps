@@ -12,7 +12,6 @@
     "chart/Chart.min.js",
     "chart/chartjs-directive.js",
     "wysihtml5/wysihtml5-0.3.0.min.js",
-    "wysihtml5/wysihtml5.css",
     "wysihtml5/wysihtml5_bootstrap.css",
     "wysihtml5/parser_rule.js"
   ]
