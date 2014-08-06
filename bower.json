@@ -15,9 +15,5 @@
     "wysihtml5/wysihtml5.css",
     "wysihtml5/wysihtml5_bootstrap.css",
     "wysihtml5/parser_rule.js",
-  ],
-  "authors": [
-    "WING <wing_kung@live.com>"
-  ],
-  "license": "MIT"
+  ]
 }
