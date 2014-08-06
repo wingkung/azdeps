@@ -1,0 +1,23 @@
+{
+  "name": "azdeps",
+  "version": "0.1",
+  "main": [
+    "angular/angular.min.js",
+    "angular/angular-cookies.min.js",
+    "angular/angular-local-storage.min.js",
+    "angular/angular-sanitize.min.js",
+    "jquery/jquery.min.js",
+    "bootstrap/css/bootstrap.min.css",
+    "bootstrap/js/bootstrap.min.js",
+    "chat/Chat.min.js",
+    "chat/chatjs-directive.js",
+    "wysihtml5/wysihtml5-0.3.0.min.js",
+    "wysihtml5/wysihtml5.css",
+    "wysihtml5/wysihtml5_bootstrap.css",
+    "wysihtml5/parser_rule.js",
+  ],
+  "authors": [
+    "WING <wing_kung@live.com>"
+  ],
+  "license": "MIT"
+}
