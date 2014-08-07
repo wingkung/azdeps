@@ -1,12 +1,12 @@
 {
   "name": "azdeps",
-  "version": "0.1",
+  "version": "0.4",
   "main": [
+    "jquery/jquery.min.js",
     "angular/angular.min.js",
     "angular/angular-cookies.min.js",
     "angular/angular-local-storage.min.js",
-    "angular/angular-sanitize.min.js",
-    "jquery/jquery.min.js",
+    "angular/angular-sanitize.min.js",    
     "bootstrap/css/bootstrap.min.css",
     "bootstrap/js/bootstrap.min.js",
     "chart/Chart.min.js",
