@@ -1,8 +1,9 @@
 {
   "name": "azdeps",
-  "version": "0.5",
+  "version": "0.6",
   "main": [
     "jquery/jquery.min.js",
+    "jquery/ajaxfileupload.js",
     "angular/angular.min.js",
     "angular/angular-cookies.min.js",
     "angular/angular-local-storage.min.js",
