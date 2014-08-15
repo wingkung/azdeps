@@ -1,6 +1,6 @@
 {
   "name": "azdeps",
-  "version": "0.6",
+  "version": "0.6.1",
   "main": [
     "jquery/jquery.min.js",
     "jquery/ajaxfileupload.js",
