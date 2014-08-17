@@ -1,7 +1,8 @@
 {
   "name": "azdeps",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "main": [
+    "font-awesome/font-awesome.min.css",
     "jquery/jquery.min.js",
     "jquery/ajaxfileupload.js",
     "angular/angular.min.js",
