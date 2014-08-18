@@ -1,6 +1,6 @@
 {
   "name": "azdeps",
-  "version": "0.6.4",
+  "version": "0.6.6",
   "main": [
     "font-awesome/css/font-awesome.min.css",
     "jquery/jquery.min.js",
