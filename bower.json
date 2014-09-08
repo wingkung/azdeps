@@ -1,6 +1,6 @@
 {
   "name": "azdeps",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "main": [
     "font-awesome/css/font-awesome.min.css",
     "jquery/jquery.min.js",
@@ -19,6 +19,7 @@
     "wysihtml5/wysihtml5-0.3.0.min.js",
     "wysihtml5/wysihtml5_bootstrap.css",
     "wysihtml5/parser_rule.js",
-    "qrcode/qrcode.js"
+    "qrcode/qrcode.js",
+    "marked/marked.min.js"
   ]
 }
