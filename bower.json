@@ -1,12 +1,13 @@
 {
   "name": "azdeps",
-  "version": "0.6.11",
+  "version": "0.6.12",
   "main": [
     "font-awesome/css/font-awesome.min.css",
     "jquery/jquery.min.js",
     "jquery/jquery.md5.js",
     "jquery/ajaxfileupload.js",
     "angular/angular.min.js",
+    "angular/angular-route.min.js",
     "angular/angular-cookies.min.js",
     "angular/angular-local-storage.min.js",
     "angular/angular-sanitize.min.js",    
