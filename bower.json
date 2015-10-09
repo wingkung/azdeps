@@ -1,26 +1,5 @@
 {
   "name": "azdeps",
-  "version": "0.6.16",
-  "main": [
-    "font-awesome/css/font-awesome.min.css",
-    "jquery/jquery.min.js",
-    "jquery/jquery.md5.js",
-    "jquery/ajaxfileupload.js",
-    "angular/angular.min.js",
-    "angular/angular-route.min.js",
-    "angular/angular-cookies.min.js",
-    "angular/angular-local-storage.min.js",
-    "angular/angular-sanitize.min.js",    
-    "bootstrap/css/bootstrap.min.css",
-    "bootstrap/js/bootstrap.min.js",
-    "angular-strap/angular-strap.min.js",
-    "angular-strap/angular-strap.tpl.min.js",
-    "chart/Chart.min.js",
-    "chart/chartjs-directive.js",
-    "wysihtml5/wysihtml5-0.3.0.min.js",
-    "wysihtml5/wysihtml5_bootstrap.css",
-    "wysihtml5/parser_rule.js",
-    "qrcode/qrcode.js",
-    "marked/marked.min.js"
-  ]
+  "version": "2.0",
+  "main": []
 }
